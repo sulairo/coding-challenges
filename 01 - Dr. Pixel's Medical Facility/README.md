@@ -1,8 +1,12 @@
+<img src="dr-pixel.png" alt="MDr. Pixel's Medical Facility Logo" width="400" style="float: right; margin-left: 20px;"/>
+
 # Dr. Pixel's Medical Facility — Coding Challenge
 
 Welcome to **Challenge 01 – Dr. Pixel's Medical Facility**!
 
 Your task is to implement the JavaScript for a small medical web app using **vanilla JS**, **HTML**, and **CSS**. The HTML and CSS are provided for you. You only need to work inside **script.js** in the **public** folder, where several helpful comments and TODO items will guide your work.
+
+<br style="clear: both;" />
 
 ---
 
